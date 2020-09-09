@@ -18,4 +18,4 @@ arr3 = The top part of the equation.
 
 
 ## Sources
-[Remove space from string] (https://www.journaldev.com/23763/python-remove-spaces-from-string#:~:text=to%20remove%20spaces.-,strip(),remove%20leading%20and%20trailing%20whitespaces.&text=If%20you%20want%20to%20remove,or%20rstrip()%20function%20instead).
+[Remove space from string](https://www.journaldev.com/23763/python-remove-spaces-from-string#:~:text=to%20remove%20spaces.-,strip(),remove%20leading%20and%20trailing%20whitespaces.&text=If%20you%20want%20to%20remove,or%20rstrip()%20function%20instead).
