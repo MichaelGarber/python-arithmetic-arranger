@@ -13,7 +13,7 @@ arr3 = The top part of the equation.
 - Iterated arr3 with i * 3 to get values of arr2, but it was out of range. Now, I will try the reverse
 - Noticed alignment worked when comparing arr2 and 3 as which one is higher. 
 - Used max function
-- MovED arr2 moves too many spaces because it spaces operators and numbers.
+- Moved arr2 moves too many spaces because it spaces operators and numbers.
 - Forgot to change to len when comparing.
 
 
